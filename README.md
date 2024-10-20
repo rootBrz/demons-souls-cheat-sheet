@@ -1,6 +1,7 @@
 # Demon's Souls Cheat Sheet
 
-Fork of https://github.com/iforgottosave/demons-souls-cheat-sheet by iforgottosave
+Fork of https://github.com/iforgottosave/demons-souls-cheat-sheet by iforgottosave.
+
 Fork adds detailed checklist of unique weapons needed for Soldier trophy.
 
 To view the cheat sheet [click here](http://rootbrz.github.io/demons-souls-cheat-sheet/)
